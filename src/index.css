@@ -103,4 +103,13 @@
     cursor: pointer;
   }
 
-  
+  .not-found p{
+    color: blue;
+
+  }
+
+  .not-found link{
+    text-decoration: none;
+    font-weight: bold;
+    color: #f1356d;
+  }

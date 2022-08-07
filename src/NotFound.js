@@ -6,7 +6,7 @@ const NotFound=()=>{
 
             <h2>Sorry</h2>
             <p>That page can not be found</p>
-            <Link to="/">Back to Home page...</Link>
+            <Link to="/" style={{textDecoration: 'none'}}>Back to Home page...</Link>
 
 
 
